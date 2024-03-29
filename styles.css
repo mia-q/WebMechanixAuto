@@ -35,7 +35,7 @@
 }
 
 .banner {
-    background-image: url(/images/car-interior-banner.png);
+    background-image: url(images/car-interior-banner.png);
     background-size: cover;
     color: white;
 }
