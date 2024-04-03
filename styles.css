@@ -64,6 +64,9 @@ body {
 .carousel-btns {
     background-color:   #ad29ce;
 }
+.carousel-btns:hover {
+    background-color:#8e1eaa;
+}
 
 .services-button {
     color: white;
